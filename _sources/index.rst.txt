@@ -41,7 +41,7 @@ Education
 ============================================
 Journal Article
 ============================================
-1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Augmented circulation of the cerebrospinal fluid around the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", *Journal of Biomechanics*, 2023.
+1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik and Shigeo Wada, "Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients", *Journal of Biomechanics*, 2023.
 
 ============================================
 International Conference
