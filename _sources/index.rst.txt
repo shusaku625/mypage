@@ -5,7 +5,7 @@ Abount Me
 
 生年月日　1997年6月25日
 
-.. image:: ./1000016812.jpg
+.. image:: ./profile.jpg
     :scale: 30
 
 大阪大学大学院基礎工学研究科機能創成専攻　和田研究室
