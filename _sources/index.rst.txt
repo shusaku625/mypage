@@ -46,6 +46,8 @@ Journal Article
 ============================================
 International Conference
 ============================================
+5. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "Computational investigation on cerebrospinal fluid flow mixing states in aqueduct of patients with Hakim’s disease", The 16th Meeting of the Hydrocephalus society, 2024. (submitted)
+
 4. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "Computational investigation of cerebrospinal fluid mixing in the cerebral aqueduct across a wide range of ages in healthy population", 8th International Conference on Computational and Mathematical Biomedical Engineering, June, 2024. (accepted)
 
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "Numerical analysis of cerebrospinal fluid mixing in normal pressure hydrocephalus", 6th Japan-Switzerland workshop on Biomechanics", September, 2023.
