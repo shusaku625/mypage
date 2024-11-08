@@ -44,7 +44,7 @@ Journal Articles
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe and Shigeo Wada, "Fluid Dynamical Investigation of Subject-Specific Variability in Cerebrospinal Fluid Flow Properties through Cerebral Aqueducts in a Healthy Population", *submitted*
 
 .. figure:: ./paper2.png
-    :scale: 20%
+    :scale: 15%
     :align: center
 
     Scatter plots showing the relationship between aqueduct diameter and representative CSF velocity in healthy subjects and iNPH patients.
