@@ -8,7 +8,7 @@ Abount Me
 .. image:: ./profile.jpg
     :scale: 15
 
-大阪大学大学院基礎工学研究科機能創成専攻　和田研究室
+大阪大学大学院基礎工学研究科機能創成専攻　`和田研究室 <https://sites.google.com/site/biomechwadalab/>`
 
 博士後期課程3年
 
@@ -30,7 +30,7 @@ Education
 ===========================================
 2022年4月-　大阪大学大学院基礎工学研究科機能創成専攻　博士後期課程
 
-2023年11月-2024年4月　University of Zurich, Visiting PhD student
+2023年11月-2024年4月　`The interface Group <https://interfacegroup.ch/>`, Institite of Physiology, University of Zurich, Visiting PhD student
 
 2020年4月-2022年3月　大阪大学大学院基礎工学研究科機能創成専攻　博士前期課程
 
