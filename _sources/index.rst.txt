@@ -54,7 +54,7 @@ International Conferences
 
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "Numerical analysis of cerebrospinal fluid mixing in normal pressure hydrocephalus", `6th Japan-Switzerland workshop on Biomechanics <https://www.jsme.or.jp/conference/jsb2023/index.html>`_, September, 2023, Otaru, Japan.
 
-2. **Shusaku Maeda**, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, “Computational study of cerebrospinal fluid mixing in cerebral aqueduct in idiopathic normal pressure hydrocephalus patients”, 9th World Congress of Biomechanics 2022 Taipei.
+2. **Shusaku Maeda**, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, “Computational study of cerebrospinal fluid mixing in cerebral aqueduct in idiopathic normal pressure hydrocephalus patients”, `9th World Congress of Biomechanics <https://www.wcb2022.com/>`_, 2022 Taipei.
 
 1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Naoki Takeishi, Shigeo Wada, “Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images”, Summer Biomechanics, Bioengineering and Biotransport Conference, June, 2021, USA(online).
 
