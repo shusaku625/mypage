@@ -129,3 +129,8 @@ Awards
 2. 若手優秀講演表彰，第33回バイオフロンティア講演会，2022年12月．
 
 1. 大阪大学大学院基礎工学研究科賞，2022年3月．
+
+.. figure:: ./linkedin-logo-linkedin-icon-transparent-free-png.webp
+    :scale: 100%
+    :align: left
+    :target: https://www.linkedin.com/in/shusaku-maeda-9b405921a/
