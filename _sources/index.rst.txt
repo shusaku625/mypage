@@ -131,6 +131,6 @@ Awards
 1. 大阪大学大学院基礎工学研究科賞，2022年3月．
 
 .. figure:: ./linkedin-logo-linkedin-icon-transparent-free-png.webp
-    :scale: 100%
+    :scale: 20%
     :align: left
     :target: https://www.linkedin.com/in/shusaku-maeda-9b405921a/
